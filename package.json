@@ -1,0 +1,14 @@
+{
+  "name": "nodejsheroku",
+  "version": "0.0.1",
+  "description": "deploying node js to heroku platform",
+  "main": "server.js",
+  "author": {
+    "name": "Nishanth Kabra",
+    "email": "nishantkabra14@gmail.com"
+  },
+  "engines": {
+    "node": "6.10.0",
+    "npm": "3.10.10"
+  }
+}
